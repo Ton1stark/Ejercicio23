@@ -4,10 +4,6 @@
  */
 package ejerciciop23;
 
-/**
- *
- * @author Dell
- */
 public class Soluciones {
     double a, b, c;
     
