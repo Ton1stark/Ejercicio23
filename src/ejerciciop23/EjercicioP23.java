@@ -4,6 +4,8 @@
  */
 package ejerciciop23;
 
+
+
 public class EjercicioP23 {
 
     public static void main(String[] args) {
